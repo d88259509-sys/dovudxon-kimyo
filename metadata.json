@@ -1,0 +1,6 @@
+{
+  "name": "BioChem Pro - Kimyo va Biologiya Ta'lim Portali",
+  "description": "Kimyo va Biologiya fanlaridan Mendeleyev davriy jadvali, 5-11-sinf biologiya darsligi, masalalar yechish, AI masalalar yordamchisi va interaktiv testlar portali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
